@@ -1,0 +1,13 @@
+{
+    "name": "root/unittest-laravel",
+    "require-dev":{
+        "phpunit/phpunit":"~5.2"
+    },
+    "authors": [
+        {
+            "name": "nguyen xuan cuong",
+            "email": "cuong1997565@gmail.com"
+        }
+    ],
+    "require": {}
+}
